@@ -54,7 +54,7 @@
   "dependencies": {
     "ember-cli-babel": "^5.1.7",
     "broccoli-babel-transpiler": "^5.5.0",
-    "broccoli-funnel": "^1.0.1",
+    "broccoli-funnel": "^1.0.8",
     "broccoli-merge-trees": "^1.1.1",
     "mock-socket": "^3.0.0"
   },
